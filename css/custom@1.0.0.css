@@ -227,7 +227,7 @@ div.bg {
   top: 0;
   width: 100%;
   height: 100%;
-  background: url("https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/TortoiseFairyHouse.jpg")
+  background: url("https://cdn.jsdelivr.net/gh/PPnostalgia/cdn_web@latest/img/background/nav_bk.png")
     no-repeat center center;
   background-size: cover; /* 填充 */
 }
@@ -257,7 +257,7 @@ body.page-body.boxed-container.vsc-initialized {
   margin-bottom: 20px;
 }
 .sidebar-menu-inner.ps-container {
-  background: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN@v20210405/navi/LeftColumn.jpg) !important;
+  background: url(https://cdn.jsdelivr.net/gh/PPnostalgia/cdn_web@latest/img/nav/side_01.webp) !important;
   background-attachment: fixed;
 }
 .sidebar-menu.collapsed .sidebar-menu-inner {
@@ -357,7 +357,7 @@ body.night .user-info-navbar .user-info-menu > li > a:hover {
 
 /* 鼠标图标 -----------------------------------------------------------------------开始 */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/cursor.png),
+  cursor: url(https://cdn.jsdelivr.net/gh/PPnostalgia/cdn_web@latest/img/cur/default.cur),
     default !important;
 }
 
@@ -367,7 +367,7 @@ a:hover,
 button:hover,
 #nav .site-page:hover,
 .xe-widget.xe-conversations.box2.label-info {
-  cursor: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/cursor_puppy.png),
+  cursor: url(https://cdn.jsdelivr.net/gh/PPnostalgia/cdn_web@latest/img/cur/pointer.cur),
     pointer !important;
 }
 
@@ -375,7 +375,7 @@ button:hover,
 #footer-wrap a:hover,
 #pagination .page-number:hover,
 input#txt {
-  cursor: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/cursor_stitch.png),
+  cursor: url(https://cdn.jsdelivr.net/gh/PPnostalgia/cdn_web@latest/img/cur/pointer.cur),
     pointer !important;
 }
 /* 鼠标图标 -----------------------------------------------------------------------结束 */
